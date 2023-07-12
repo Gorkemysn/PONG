@@ -829,7 +829,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   movementSpeed: 10
-  isAI: 1
+  isAI: 0
   ball: {fileID: 86019691}
 --- !u!61 &823396166
 BoxCollider2D:
